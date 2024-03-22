@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, Nice to meet you, I'm Simon</h1>
 <h3 align="center">Welcome to my page!</h3>
 <h2 align="center"> I am a full stack developer and psychologist from Santiago, Chile. With all the desire to grow and learn new things every day. 🚀 </h2>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storbett21&label=Profile%20views&color=0e75b6&style=flat" alt="storbett21" /> </p>
 
+- 🔭 I’m working on [Landing The Start Wars](https://github.com/4GeeksAcademy/simon-torbett-startwars)
+
+- 👯 I’m looking to collaborate on [Marketplace de Oficios](https://github.com/Felipe-LasHeras/Presentacion-final-4geek)
+
+- 🔭 Another one of my projects on (https://github.com/Storbett21/videojuego-con-react), (https://github.com/Storbett21/Bienes-Raices-proyect)
+
 - 📫 How to reach me **Simontorbett@gmail.com**
+
 
 - ⚡ Fun fact **"Sometimes I'm lying down and an idea on how to improve the code comes up, and I jump back to the laptop again. 😂"**
 
