@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on [Marketplace de Oficios](https://github.com/Felipe-LasHeras/Presentacion-final-4geek)
 
-- 🔭 Another one of my projects on (https://github.com/Storbett21/videojuego-con-react), (https://github.com/Storbett21/Bienes-Raices-proyect)
+- 🔭 Another one of my projects on [TIC-TAC-TOE](https://github.com/Storbett21/videojuego-con-react)
+
+-   Project under construction on [Bienes Raices](https://github.com/Storbett21/Bienes-Raices-proyect)
 
 - 📫 How to reach me **Simontorbett@gmail.com**
 
