@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Nice to meet you, I'm Simon</h1>
+<h1 align="center">Hi 👋, Nice to meet you, I'm Simón</h1>
 <h3 align="center">Welcome to my page!</h3>
 <h2 align="center"> I am a full stack developer and psychologist from Santiago, Chile. With all the desire to grow and learn new things every day. 🚀 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storbett21&label=Profile%20views&color=0e75b6&style=flat" alt="storbett21" /> </p>
