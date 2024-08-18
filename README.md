@@ -64,4 +64,3 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=storbett21&show_icons=true&theme=gruvbox&title_color=aa3131&cache_seconds=1810&locale=en&layout=compact" alt="storbett21" /></p>
