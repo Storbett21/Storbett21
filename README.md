@@ -63,8 +63,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
-<p align="left"> 
-    <img align="center" src="https://GitHub-readme-stats.vercel.app/api/top-langs/?username=Storbett21&layout=compact&langs_count=10&theme=dark" alt="Storbett21's most used languages" />
-</p> va
+<p align="left">  
+  <img align="center" src="https://GitHub-readme-stats.vercel.app/api/top-langs/?username=Storbett21&layout=compact&langs_count=10&theme=dark" alt="Storbett21's most used languages" />
+</p>
   
 
