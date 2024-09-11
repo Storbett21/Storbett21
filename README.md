@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, ¡Encantado de conocerte! Soy Simón</h1>
+<h1 align="center">Hola 👋 ¡Encantado de conocerte! Soy Simón</h1>
 <h3 align="center">¡Bienvenido a mi página!</h3>
 <h2 align="center">Soy un desarrollador full stack y psicólogo de Santiago, Chile. Con todas las ganas de crecer y aprender cosas nuevas cada día. 🚀</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=storbett21&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="storbett21" /> </p>
