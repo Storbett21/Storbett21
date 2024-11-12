@@ -7,8 +7,6 @@
 
 - 👯 Busco colaborar en [Marketplace de Oficios](https://github.com/Felipe-LasHeras/Presentacion-final-4geek)
 
-- 🔭 Otro de mis proyectos es [TIC-TAC-TOE](https://github.com/Storbett21/videojuego-con-react)
-
 - 🚧 Proyecto en construcción: [Bienes Raíces](https://github.com/Storbett21/Bienes-Raices-proyect)
 
 - 📫 Cómo contactarme: **Simontorbett@gmail.com**
